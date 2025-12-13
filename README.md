@@ -1,6 +1,8 @@
 # US Emissions Dashboard
 In this project, I worked with a dataset provided by the Environmental Protection Agency (EPA) to analyze emissions across the United States in 2023. The goal was to build a Databricks‑powered dashboard that breaks down where emissions are coming from and how they vary by location and population.
 
+The data was collected by the EPA (Environmental Protection Agency) in 2023.
+
 ### What I Did: 
 - Used Databricks to ingest, clean, and transform, and visualize an emissions datasets. 
 - Analyzed emissions at the state and county levels to identify the highest‑emitting regions. 
